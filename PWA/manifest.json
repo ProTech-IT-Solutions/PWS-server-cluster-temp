@@ -1,7 +1,7 @@
 {
-  "name": "auroraOS",
-  "short_name": "auroraOS",
-  "description": "auroraOS. An OS in your web browser.",
+  "name": "PWS cluster",
+  "short_name": "PWS cluster 3.0",
+  "description": "Coding, writing or server work, we have the resources to help you get there",
   "icons": [
     {
       "src": "/logo.webp",
