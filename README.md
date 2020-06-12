@@ -1,18 +1,17 @@
-# auroraOS
-A window manager/desktop environment in your browser.
+# PWS cluster 3.0.0
 
-© 2020 soup
+Why is it old? = it is old because some features in Auora 5.0 may be full of bugs, security risks and errors, we have chosen to stay with 4.0 and type in any changes.
 
-[Try it out!](https://auroraos.glitch.me/) | [Discord Support](https://discord.gg/8nFuT3d)
+What is PWS (Protech Web Solutions) = Protech Web solutions is a company that runs this cluster service. We use glitch.com to host our software and we use github distribute it safely and keep it open-source.
 
-# Features
-* Easy to use GUI
-* Beautiful GUI
-* Fast Window Manager
-* Simplicity
-* Package Manager
-* And more!
-# License
+# software specs
+
+software name: AuoraOS
+version: 4.0.0
+PWS modified version: 4.0.1
+Suitable for cluster codes: SR1 (**server**), WR2 (**Writing**), C3 (**coding**)
+
+# System Software License
 auroraOS follows the [GNU General Public License v2.0](https://tldrlegal.com/license/gnu-general-public-license-v2).
 
 This means that you are **allowed to**
@@ -31,5 +30,3 @@ This means that you **must**
 * Include copyright
 * State significant changes to auroraOS (Rewriting window manager, significant GUI changes)
 * Include the full text of the same **GNU General Public License v2.0** license that auroraOS uses
-
-## Need to contact me? My Discord is Snorp#5935.
