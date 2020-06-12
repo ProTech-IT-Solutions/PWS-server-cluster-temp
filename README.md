@@ -1,14 +1,14 @@
 # PWS cluster 3.0.0
 
-Why is it old? = it is old because some features in Auora 5.0 may be full of bugs, security risks and errors, we have chosen to stay with 4.0 and type in any changes.
+**Why is it old?** = it is old because some features in Auora 5.0 may be full of bugs, security risks and errors, we have chosen to stay with 4.0 and type in any changes.
 
-What is PWS (Protech Web Solutions) = Protech Web solutions is a company that runs this cluster service. We use glitch.com to host our software and we use github distribute it safely and keep it open-source.
+**What is PWS (Protech Web Solutions)?** = Protech Web solutions is a company that runs this cluster service. We use glitch.com to host our software and we use github distribute it safely and keep it open-source.
 
 # software specs
 
-software name: AuoraOS
-version: 4.0.0
-PWS modified version: 4.0.1
+software name: AuoraOS<br>
+version: 4.0.0<br>
+PWS modified version: 4.0.1<br>
 Suitable for cluster codes: SR1 (**server**), WR2 (**Writing**), C3 (**coding**)
 
 # System Software License
