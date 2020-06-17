@@ -30,3 +30,5 @@ This means that you **must**
 * Include copyright
 * State significant changes to auroraOS (Rewriting window manager, significant GUI changes)
 * Include the full text of the same **GNU General Public License v2.0** license that auroraOS uses
+
+see the wiki for self hosting instructions
